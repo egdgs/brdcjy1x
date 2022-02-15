@@ -1,0 +1,16 @@
+{
+  "name": "starry sky",
+  "description": "default",
+  "keywords": [
+    "vless"
+  ],
+  "env": {
+    "UUID": {
+      "description": "",
+      "value": ""
+    }
+  },
+  "website": "https://github.com/Effertz33/rexisting",
+  "repository": "https://github.com/Effertz33/rexisting",
+  "stack": "container"
+}
